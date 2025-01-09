@@ -24,7 +24,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Reaction race is a super simple, super awesome game to play with your friends. There's a single icon on the screen that will flash a random color at random intervals, and you have to select which color it flashed as fast as you can. It then computes your average reaction time and saves it in the score leaderboard for everyone to see. Have fun trying to beat all your friends!
 
 ### Design
 
