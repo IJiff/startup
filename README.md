@@ -52,7 +52,7 @@ I am going to use the required technologies in the following ways.
 - **HTML** - 3 HTML pages: one for login, one for gameplay, and one for leaderboard
 - **CSS** - Styling for the application that handles changing the color of the main dot, as well as scaling for different screen sizes
 - **React** - Allows for updating only center dot during gameplay, as well as a single page with different HTML components
-- **Service** - Description here
+- **Service** - VerifyRight for verifying validity of email usernames
 - **DB/Login** - Description here
 - **WebSocket** - Description here
 
