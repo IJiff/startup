@@ -53,7 +53,7 @@ I am going to use the required technologies in the following ways.
 - **CSS** - Styling for the application that handles changing the color of the main dot, as well as scaling for different screen sizes
 - **React** - Allows for updating only center dot during gameplay, as well as a single page with different HTML components
 - **Service** - VerifyRight for verifying validity of email usernames
-- **DB/Login** - Description here
+- **DB/Login** - Store usernames, high scores, and averages in database. Scores won't be saved unless logged in.
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
