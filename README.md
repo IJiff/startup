@@ -36,9 +36,10 @@ There are 4 key parts of this design. First, there is the large center dot that 
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Login with email verification using third party service
+- Client-side randomizer and timer for optimized gameplay
+- Database with login credentials and high scores
+- Global leaderboard visible to all users
 
 ### Technologies
 
