@@ -32,12 +32,7 @@ Reaction race is a super simple, super awesome game to play with your friends. T
 
 There are 4 key parts of this design. First, there is the large center dot that will display the color for you to select. Second, there are the smaller dots that you click when the center dot changes to that color. Third, there is the profile icon in the top left that lets you change your display name or account. Fourth, there is the leaderboard icon in the top right that allows you to view global rankings.
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+![flowchart](flow_diagram.png)
 
 ### Key features
 
