@@ -16,11 +16,11 @@ This application will be very simple. A dot on the screen will flash a certain c
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -50,7 +50,7 @@ I am going to use the required technologies in the following ways.
 - **React** - Allows for updating only center dot during gameplay, as well as a single page with different HTML components
 - **Service** - VerifyRight for verifying validity of email usernames
 - **DB/Login** - Store usernames, high scores, and averages in database. Scores won't be saved unless logged in.
-- **WebSocket** - Description here
+- **WebSocket** - When a player gets a new high score, this score is shared with all other users through the leaderboard
 
 ## 🚀 AWS deliverable
 
