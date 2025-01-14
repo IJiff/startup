@@ -18,4 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Random Notes
 
-The Git assignment taught me more about how important it is to have good commit habits when using Git. It also showed me some of the basic and common commands that I'll need to use when doing this course.
+-The Git assignment taught me more about how important it is to have good commit habits when using Git. It also showed me some of the basic and common commands that I'll need to use when doing this course.
+
+-Always make sure that you understand what technologies you will need to use in a project because adding them retroactively will be super difficult
+
+-Creating a mockup of a website is helpful to see what you might have left out
