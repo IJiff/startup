@@ -14,6 +14,7 @@
 
 -Assigning an elastic IP address to a server instance allows you to keep the same IP address even when restarting the instance
 
+-You can purchase a domain with your choice of TLD very easily in AWS, and then connect it to a server instance using the "Hosted zones" tab and choosing "Create record"
 
 ## HTML Notes
 
