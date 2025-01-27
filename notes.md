@@ -22,6 +22,8 @@
 
 -HTML has a lot of elements focused on the organization of a webpage, and you can use tools like CodePen to instantly render changes you make to your HTML code.
 
+-You can deploy files to production using your key and specifying which subdomain you want to deploy them to
+
 ## Random Notes
 
 -The Git assignment taught me more about how important it is to have good commit habits when using Git. It also showed me some of the basic and common commands that I'll need to use when doing this course.
