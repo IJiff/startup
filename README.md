@@ -62,15 +62,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - HTML page for login, gameplay, and leaderboard
+- [x] **Proper HTML element usage** - Organized HTML layout following common practices
+- [x] **Links** - Links between all 3 HTML pages found in <nav>
+- [x] **Text** - All of the necessary text is there
+- [x] **3rd party API placeholder** - Email verification on login page will go through the VerifyRight API
+- [x] **Images** - Images for the profile and leaderboard are rendered
+- [x] **Login placeholder** - Login page with form for filling in email
+- [x] **DB data placeholder** - DB data will hold the global leaderboard scores
+- [x] **WebSocket placeholder** - WebSocket will update the leaderboard scores in real time
 
 ## 🚀 CSS deliverable
 
