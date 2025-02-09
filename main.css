@@ -13,13 +13,6 @@ h1 {
     margin-top: .5em;
 }
 
-#nav_items {
-   /* display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;*/
-}
-
 #profile {
     width: 150px;
     margin-right: 10%;
@@ -37,6 +30,18 @@ menu {
     justify-content: center;
 }
 
+.circle_container {
+    display: flex;  
+    align-items: flex-end; 
+    justify-content: center;
+    margin-top: 2%;
+}
+
+#big_circle {
+    width: 150px;
+    height: 150px;
+}
+
 .option {
     margin-right: 1%; 
     margin-left: 1%; 
@@ -45,4 +50,28 @@ menu {
     border-radius: 50%; 
     background-color: white; 
     border: 3px solid black;
+}
+
+#red {
+    background-color: red;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#purple {
+    background-color: purple;
 }
