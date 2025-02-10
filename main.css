@@ -94,8 +94,7 @@ menu {
 
 footer {
     font-weight: bold;
-    position: fixed;
-    bottom: 0;
+    float: inline-end;
     height: 100px;
     width: 100%;
     color: black;
