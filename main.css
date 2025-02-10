@@ -30,26 +30,38 @@ menu {
     justify-content: center;
 }
 
+#time {
+    display: flex; 
+    margin-top: 1vw; 
+    align-items: center; 
+    justify-content: center;
+}
+
 .circle_container {
     display: flex;  
     align-items: flex-end; 
     justify-content: center;
-    margin-top: 2%;
+    margin-top: 10px;
+    
 }
 
 #big_circle {
-    width: 150px;
-    height: 150px;
+    width: 18vw;
+    height: 18vw;
+    max-width: 175px;
+    max-height: 175px;
 }
 
 .circle_container a {
-    margin-right: 1%;
-    margin-left: 1%;
+    margin-right: 1vw;
+    margin-left: 1vw;
 }
 
 .option {
-    width: 100px; 
-    height: 100px; 
+    width: 12vw; 
+    max-width: 100px;
+    height: 12vw;
+    max-height: 100px; 
     border-radius: 50%; 
     background-color: white; 
     border: 3px solid black;
@@ -77,4 +89,20 @@ menu {
 
 #purple {
     background-color: purple;
+}
+
+@media (orientation: portrait) {
+    footer {
+        display: none;
+    }
+    #profile {
+        display: none;
+    }
+    #leaderboard {
+        display: none;
+    }
+    .option {
+        width: 12vw;
+        height: 12vw;
+    }
 }
