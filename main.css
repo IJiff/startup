@@ -53,8 +53,8 @@ menu {
 }
 
 .circle_container a {
-    margin-right: 1vw;
-    margin-left: 1vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
 }
 
 .option {
@@ -89,6 +89,14 @@ menu {
 
 #purple {
     background-color: purple;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    color: black;
 }
 
 @media (orientation: portrait) {
