@@ -31,6 +31,7 @@ menu {
 }
 
 #time {
+    font-style: italic;
     display: flex; 
     margin-top: 1vw; 
     align-items: center; 
@@ -92,6 +93,7 @@ menu {
 }
 
 footer {
+    font-weight: bold;
     position: fixed;
     bottom: 0;
     height: 100px;
