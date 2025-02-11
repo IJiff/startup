@@ -76,12 +76,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Header, footer, and main content body** - I did not complete this part of the deliverable.
-- [ ] **Navigation elements** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing** - I did not complete this part of the deliverable.
-- [ ] **Application elements** - I did not complete this part of the deliverable.
-- [ ] **Application text content** - I did not complete this part of the deliverable.
-- [ ] **Application images** - I did not complete this part of the deliverable.
+- [x] **Header, footer, and main content body** - Styled all of these elements appropriately and made footer hide when screen is too small
+- [x] **Navigation elements** - used flex to line up all navigation elements
+- [x] **Responsive to window resizing** - footer, profile, and leaderboard elements all disappear when screen is portrait, circles shrink as well.
+- [x] **Application elements** - Everything is colored the way I want and they all resize correctly
+- [x] **Application text content** - Used different fonts and weights to highlight more important information
+- [x] **Application images** - Images move correctly and hide when necessary
 
 ## 🚀 React part 1: Routing deliverable
 
